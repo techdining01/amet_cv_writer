@@ -98,8 +98,10 @@ This project is provided for personal and professional use. Do not commit your `
 Built for professionals targeting AMET-region roles — get hired faster, everywhere.
 
 
-**OLADIMEJI IDREES**  
-+234 807 982 3665 | idreesademola07@gmail.com  
+## Sample
+
+                                    **OLADIMEJI IDREES**  
+                         +234 807 982 3665 | idreesademola07@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/oladimeji-idrees-11b0aa41b) | [GitHub](https://github.com/techdining01)  
 
 ---
@@ -112,7 +114,8 @@ Computer Engineering B.Sc. Ed graduate with 3 + years of full‑stack and 
 ## PROFESSIONAL EXPERIENCE  
 
 ### Solo Developer – Independent Consultant  
-**2023 – Present**  
+Python Back‑End Developer** – Techdining Consult Ltd, Nigeria     **January 2023 – Present** 
+ 
 
 - Designed, built, and launched **CV & LinkedIn Writer – AMET Standard**: a SaaS platform that auto‑generates CVs, LinkedIn posts, and provides ATS‑score analytics.  
   - Deployed a multi‑AI fallback architecture (Groq, Hugging Face, LangChain) that cut AI‑service downtime from 15 % to < 2 %.  
