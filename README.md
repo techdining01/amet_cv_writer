@@ -100,11 +100,10 @@ Built for professionals targeting AMET-region roles — get hired faster, everyw
 
 ## Sample
 
-                                    **OLADIMEJI IDREES**  
-                         +234 807 982 3665 | idreesademola07@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/oladimeji-idrees-11b0aa41b) | [GitHub](https://github.com/techdining01)  
+                                    ##OLADIMEJI IDREES##
+                         +234 807 982 3665 | idreesademola07@gmail.com [LinkedIn](https://www.linkedin.com/in/oladimeji-idrees-11b0aa41b) | [GitHub](https://github.com/techdining01)  
 
----
+
 
 ## PROFESSIONAL SUMMARY  
 Computer Engineering B.Sc. Ed graduate with 3 + years of full‑stack and AI‑integration experience. Proven track record delivering scalable SaaS platforms (e.g., CV & LinkedIn Writer) and intelligent automation solutions (e.g., QuickFix‑bot). Expert in Python, JavaScript, and modern web frameworks (Django, FastAPI, Flask, Streamlit). Adept at designing fault‑tolerant AI pipelines, real‑time dashboards, and multi‑tenant messaging bots. Passionate about leveraging AI to solve real‑world problems in the Nigerian/Kenyan market.
