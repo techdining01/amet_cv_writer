@@ -100,8 +100,8 @@ Built for professionals targeting AMET-region roles — get hired faster, everyw
 
 ## Sample
 
-                                    ##OLADIMEJI IDREES##
-                         +234 807 982 3665 | idreesademola07@gmail.com [LinkedIn](https://www.linkedin.com/in/oladimeji-idrees-11b0aa41b) | [GitHub](https://github.com/techdining01)  
+                                    ## OLADIMEJI IDREES ##
+                    +234 807 982 3665 | idreesademola07@gmail.com | [LinkedIn](https://www.linkedin.com/in/oladimeji-idrees-11b0aa41b) | [GitHub](https://github.com/techdining01)  
 
 
 
